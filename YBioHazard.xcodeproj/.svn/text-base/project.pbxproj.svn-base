@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXFileReference section */
+		06F27B2DFFEEEFEF11CA0E56 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = /System/Library/Frameworks/ScreenSaver.framework; sourceTree = "<absolute>"; };
+		089C1672FE841209C02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		089C167EFE841241C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		089C167FFE841241C02AAC07 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		32DBCFA80370C50100C91783 /* YBioHazard_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YBioHazard_Prefix.pch; sourceTree = "<group>"; };
+		8D255AD20486D3F9007BF209 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F50079790118B23001CA0E54 /* YBioHazardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YBioHazardView.h; sourceTree = "<group>"; };
+		F500797A0118B23001CA0E54 /* YBioHazardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YBioHazardView.m; sourceTree = "<group>"; };
+		F8404D360A4C1F11009C95B5 /* ConfigurationSheet.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = ConfigurationSheet.nib; sourceTree = "<group>"; };
+		F8906FEF0A4B2A5B00347012 /* QuartzComposer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzComposer.framework; path = /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzComposer.framework; sourceTree = "<absolute>"; };
+		F8C5A0A70A627B1C003D1555 /* icone.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = icone.icns; path = RessourcesYClock/icone.icns; sourceTree = "<group>"; };
+		F8C5A0C80A627EAC003D1555 /* YClock-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "YClock-Info.plist"; sourceTree = "<group>"; };
+		F8DF37420A59034C00E58A24 /* couchesBlack */ = {isa = PBXFileReference; lastKnownFileType = folder; name = couchesBlack; path = RessourcesYClock/couchesBlack; sourceTree = "<group>"; };
+		F8DF37520A59034C00E58A24 /* couchesRed */ = {isa = PBXFileReference; lastKnownFileType = folder; name = couchesRed; path = RessourcesYClock/couchesRed; sourceTree = "<group>"; };
+		F8DF37620A59034C00E58A24 /* couchesWhite */ = {isa = PBXFileReference; lastKnownFileType = folder; name = couchesWhite; path = RessourcesYClock/couchesWhite; sourceTree = "<group>"; };
+		F8DF37720A59034C00E58A24 /* YClock.qtz */ = {isa = PBXFileReference; lastKnownFileType = file; name = YClock.qtz; path = RessourcesYClock/YClock.qtz; sourceTree = "<group>"; };
+		F8FE24730A4BFB410019E318 /* ConfigurationSheet.nib-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "ConfigurationSheet.nib-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		089C166AFE841209C02AAC07 /* YBioHazard */ = {
+			isa = PBXGroup;
+			children = (
+				08FB77AFFE84173DC02AAC07 /* Classes */,
+				32DBCFA70370C4F300C91783 /* Other Sources */,
+				089C167CFE841241C02AAC07 /* Resources */,
+				089C1671FE841209C02AAC07 /* Frameworks and Libraries */,
+				19C28FB8FE9D52D311CA2CBB /* Products */,
+				F8C5A0C80A627EAC003D1555 /* YClock-Info.plist */,
+			);
+			name = YBioHazard;
+			sourceTree = "<group>";
+		};
+		089C1671FE841209C02AAC07 /* Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7ACFEA557BF11CA2CBB /* Linked Frameworks */,
+				1058C7AEFEA557BF11CA2CBB /* Other Frameworks */,
+			);
+			name = "Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		089C167CFE841241C02AAC07 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F8C5A0A70A627B1C003D1555 /* icone.icns */,
+				F8DF37420A59034C00E58A24 /* couchesBlack */,
+				F8DF37520A59034C00E58A24 /* couchesRed */,
+				F8DF37620A59034C00E58A24 /* couchesWhite */,
+				F8DF37720A59034C00E58A24 /* YClock.qtz */,
+				F8FE24730A4BFB410019E318 /* ConfigurationSheet.nib-Info.plist */,
+				F8404D360A4C1F11009C95B5 /* ConfigurationSheet.nib */,
+				8D255AD20486D3F9007BF209 /* Info.plist */,
+				089C167DFE841241C02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		08FB77AFFE84173DC02AAC07 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				F50079790118B23001CA0E54 /* YBioHazardView.h */,
+				F500797A0118B23001CA0E54 /* YBioHazardView.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7ACFEA557BF11CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F8906FEF0A4B2A5B00347012 /* QuartzComposer.framework */,
+				1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */,
+				06F27B2DFFEEEFEF11CA0E56 /* ScreenSaver.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7AEFEA557BF11CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				089C1672FE841209C02AAC07 /* Foundation.framework */,
+				089C167FFE841241C02AAC07 /* AppKit.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FB8FE9D52D311CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		32DBCFA70370C4F300C91783 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCFA80370C50100C91783 /* YBioHazard_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		089C1669FE841209C02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = EF7AD73108BB986600CE4634 /* Build configuration list for PBXProject "YBioHazard" */;
+			hasScannedForEncodings = 1;
+			mainGroup = 089C166AFE841209C02AAC07 /* YBioHazard */;
+			projectDirPath = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXVariantGroup section */
+		089C167DFE841241C02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C167EFE841241C02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EF7AD73208BB986600CE4634 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Debug;
+		};
+		EF7AD73308BB986600CE4634 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF7AD73108BB986600CE4634 /* Build configuration list for PBXProject "YBioHazard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF7AD73208BB986600CE4634 /* Debug */,
+				EF7AD73308BB986600CE4634 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 089C1669FE841209C02AAC07 /* Project object */;
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/YBioHazard.xcodeproj"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="project.pbxproj"
+   text-time="2006-07-14T16:40:38.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="15f9d182789bf8cfff258972ece22297"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:38.000000Z"/>
+<entry
+   committed-rev="1"
+   name="esposito.pbxuser"
+   text-time="2006-07-14T16:40:38.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="7de0a9789cf51d41dadbc97a84c7ecb9"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:38.000000Z"/>
+</wc-entries>

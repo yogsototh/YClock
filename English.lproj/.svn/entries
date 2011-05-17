@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/English.lproj"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="InfoPlist.strings"
+   text-time="2006-07-14T16:40:38.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="a57fcb2a1b432a89ffc7ebd8d056ad6d"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:38.000000Z"/>
+</wc-entries>

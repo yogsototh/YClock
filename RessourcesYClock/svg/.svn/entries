@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/RessourcesYClock/svg"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="biohazardAquaRed.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="016c4d3c8deeed98d4093ded2398ba08"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   name="blackSymbols"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="biohazardAquaBlack.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="4eda571e4d230f236fe39416927713b8"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="biohazardAquaWhite.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="fafc5170471bc01e7142b4123801a91e"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   name="biohazardSymbols"
+   kind="dir"/>
+</wc-entries>

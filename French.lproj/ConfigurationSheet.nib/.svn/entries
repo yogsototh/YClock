@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/ConfigurationSheet.nib"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="info.nib"
+   text-time="2006-07-14T16:40:38.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="4af32dfb256ec57cfe50f1f16ea7302c"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="keyedobjects.nib"
+   text-time="2006-07-14T16:40:38.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="738d6b0a9e20a7aac975f8eba8ed378c"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:38.000000Z"/>
+<entry
+   committed-rev="1"
+   name="classes.nib"
+   text-time="2006-07-14T16:40:38.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="81e3e936e5403c343689730fcc7451b9"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:38.000000Z"/>
+</wc-entries>

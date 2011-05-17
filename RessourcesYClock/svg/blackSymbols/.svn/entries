@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/RessourcesYClock/svg/blackSymbols"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="2.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="3a8ba03a8353ca1a7a3a06a9746f63c0"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="3.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="cc21024ca6b42b623d73dbf708154a6f"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="4.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="a938b59cdb678fd0ea0c47a7c76e1c5b"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="5.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="6743185969d397d31688e73d1fa10a3d"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="6.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="26a0d889ce90554ec846e06353eb4747"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="7.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="5f2a89b32a8e961076ed8d5aea9bd7a0"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="1.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="cb8b05f9651eb9393526a101db992287"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:31.000000Z"/>
+</wc-entries>

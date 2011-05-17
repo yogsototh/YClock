@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/RessourcesYClock/svg/biohazardSymbols"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="quatre.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="9a67c574690f524a38df2ac1d032149e"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="un.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="7b17fb5cbbc29784702edb680250b504"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="six.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="d7e27f97072380a5ccd82d0b042993fd"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dix.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="80b84be5352e60d501ac5c79cb2c500b"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="deux.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="9209aa98c42d03fe7459cb6b2216c9ff"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="douze.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="13a83f5c12d3b422c7cfd3b55bc55451"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="huit.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="4113802e1d87f033468daa6e0c1249d2"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cinq.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="2471f73b3d091b263385c2e0ff659543"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="onze.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="391967a0fdbacafee7eff6a9811ee837"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="sept.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="c89e0ebd36d04b270ea7dc040bd11dab"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="neuf.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="941049ba89ca6fae9e67faff2391c9ad"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="trois.svg"
+   text-time="2006-07-14T16:40:32.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="7d383807e02723a6816810b375f42d48"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+</wc-entries>

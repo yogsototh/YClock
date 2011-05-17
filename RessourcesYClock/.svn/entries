@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/RessourcesYClock"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   name="svg"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="icone.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="00fc2c1d1c918ee35a82891bcfb0c171"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="YClock.qtz"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="029d664ff0f7ab85046bc7e780db9797"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:33.000000Z"/>
+<entry
+   name="couchesRed"
+   kind="dir"/>
+<entry
+   name="couchesBlack"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="icone.icns"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="a4504ac65af365826414643de987aa8e"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   name="couchesWhite"
+   kind="dir"/>
+</wc-entries>

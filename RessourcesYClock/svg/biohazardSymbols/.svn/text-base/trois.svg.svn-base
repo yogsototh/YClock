@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   version="1.0"
+   sodipodi:docbase="/Users/esposito/Pictures/svg/YClock"
+   sodipodi:docname="trois.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10000"
+     objecttolerance="10000"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3077861"
+     inkscape:cx="354.40176"
+     inkscape:cy="559.99514"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="1024px"
+     height="1024px"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     showgrid="true"
+     gridspacingx="32px"
+     gridspacingy="32px"
+     gridempspacing="4"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:grid-points="true"
+     inkscape:window-width="823"
+     inkscape:window-height="577"
+     inkscape:window-x="0"
+     inkscape:window-y="22" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:black;fill-opacity:0.43315507;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 507.0625,128.0625 C 403.36462,130.69263 320,215.672 320,320 C 320,354.97059 329.36161,387.75014 345.71875,416 C 345.54221,415.99979 345.36407,415.99972 345.1875,416 C 312.72069,416.05167 279.83565,424.33075 249.71875,441.71875 C 160.32007,493.33311 128.14782,606.13965 175.5,696.78125 C 136.96324,621.45782 163.90292,528.2175 238,485.4375 C 275.74057,463.64796 318.70113,458.99421 357.84375,469.0625 C 354.03994,482.73091 352,497.12455 352,512 C 352,586.54115 403.06523,649.22302 472.09375,666.96875 C 461.24071,705.89735 435.73721,740.7749 398,762.5625 C 322.70781,806.03251 226.66808,781.30406 181.5625,707.5625 C 235.51318,796.58112 351.13653,826.5789 441.71875,774.28125 C 471.99217,756.80288 495.7134,732.30831 512,704.03125 C 528.2866,732.30831 552.00783,756.80288 582.28125,774.28125 C 672.86346,826.57892 788.48682,796.58111 842.4375,707.5625 C 797.33192,781.30405 701.2922,806.0325 626,762.5625 C 588.26279,740.7749 562.75929,705.89735 551.90625,666.96875 C 620.93477,649.22302 672.00001,586.54115 672,512 C 672,497.12455 669.96005,482.7309 666.15625,469.0625 C 705.29887,458.99421 748.25943,463.64796 786,485.4375 C 860.09707,528.21749 887.03676,621.45782 848.5,696.78125 C 895.85217,606.13968 863.67992,493.33309 774.28125,441.71875 C 744.16435,424.33075 711.27931,416.05167 678.8125,416 C 678.63593,415.99972 678.45779,415.99979 678.28125,416 C 694.63839,387.75014 704,354.97059 704,320 C 704,215.39954 620.19983,130.26782 516.125,128.0625 C 602.53987,130.25427 672,201.06 672,288 C 671.99999,331.59687 654.53038,371.13243 626.21875,400 C 597.17574,370.38669 556.72311,352.00001 512,352 C 467.2769,352 426.82426,370.38668 397.78125,400 C 369.46962,371.13243 352,331.59688 352,288 C 352,201.05999 421.4601,130.25427 507.875,128.0625 C 507.60391,128.06824 507.33332,128.05563 507.0625,128.0625 z M 512,384 C 546.85148,384 578.47294,397.94304 601.5625,420.5625 C 575.99954,437.87359 545.17611,448 512,448 C 547.328,448 576,476.672 576,512 C 576,547.328 547.328,576 512,576 C 476.672,576 448,547.328 448,512 C 448,476.672 476.672,448 512,448 C 478.82388,448 448.00046,437.87359 422.4375,420.5625 C 445.52706,397.94304 477.14852,384 512,384 z M 388,480.15625 C 415.77746,493.63825 439.97236,515.26505 456.5625,544 C 473.15639,572.74145 479.77961,604.5089 477.5625,635.3125 C 423.6163,620.2608 384,570.72593 384,512 C 384,501.00511 385.38876,490.34052 388,480.15625 z M 636,480.15625 C 638.61124,490.34052 640,501.00511 640,512 C 640,570.72593 600.3837,620.2608 546.4375,635.3125 C 544.22039,604.5089 550.84361,572.74144 567.4375,544 C 584.02764,515.26504 608.22254,493.63825 636,480.15625 z "
+       id="path1909"
+       inkscape:transform-center-y="-47.965244" />
+  </g>
+</svg>

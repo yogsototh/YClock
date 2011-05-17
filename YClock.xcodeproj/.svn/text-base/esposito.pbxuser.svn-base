@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D255AC50486D3F9007BF209 /* YClock */;
+		addToTargets = (
+			8D255AC50486D3F9007BF209 /* YClock */,
+		);
+		breakpointsGroup = F8C5A16C0A6282F6003D1555 /* XCBreakpointsBucket */;
+		codeSenseManager = F8C5A0FF0A628172003D1555 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					183,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48.1626,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 174227776;
+			PBXWorkspaceStateSaveDate = 174227776;
+		};
+		perUserProjectItems = {
+			F8C5A1680A6282F1003D1555 /* PBXTextBookmark */ = F8C5A1680A6282F1003D1555 /* PBXTextBookmark */;
+			F8C5A1690A6282F1003D1555 /* PBXTextBookmark */ = F8C5A1690A6282F1003D1555 /* PBXTextBookmark */;
+			F8C5A1CA0A628432003D1555 /* PBXTextBookmark */ = F8C5A1CA0A628432003D1555 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F8C5A0FE0A628172003D1555 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D255AC50486D3F9007BF209 /* YClock */ = {
+		activeExec = 0;
+	};
+	F50079790118B23001CA0E54 /* YClockView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 613}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {884, 613}}";
+			sepNavWindowFrame = "{{15, 4}, {923, 742}}";
+		};
+	};
+	F500797A0118B23001CA0E54 /* YClockView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 3402}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRect = "{{0, 0}, {838, 167}}";
+		};
+	};
+	F8C5A0FE0A628172003D1555 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 1;
+		scmConfiguration = {
+			SubversionToolPath = /sw/bin/svn;
+		};
+		scmType = scm.subversion;
+	};
+	F8C5A0FF0A628172003D1555 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F8C5A1680A6282F1003D1555 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: YBioHazardView.h: No such file or directory";
+		fRef = F500797A0118B23001CA0E54 /* YClockView.m */;
+		rLen = 1;
+		rLoc = 8;
+		rType = 1;
+	};
+	F8C5A1690A6282F1003D1555 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* YClockView.m */;
+		name = "YClockView.m: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+	F8C5A16C0A6282F6003D1555 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	F8C5A1CA0A628432003D1555 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* YClockView.m */;
+		name = "YClockView.m: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+}

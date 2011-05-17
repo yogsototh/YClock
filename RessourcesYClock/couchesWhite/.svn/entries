@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-07-14T16:34:48.211420Z"
+   url="file:///Users/esposito/Projets/svnRoots/YClock/trunk/RessourcesYClock/couchesWhite"
+   last-author="esposito"
+   kind="dir"
+   uuid="2ba514d2-8c18-0410-9d8f-edb858f84198"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="motif1.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="879fce2fd145f30619b0fb0ee12d85a7"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif10.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="11a754dca6e75a35062f5285892aea64"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif11.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="2e022a55c0b3b7c7458a6816dd3444d1"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif2.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="d089cb2b58ce9629acd59e1d8a898c28"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif12.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="3e8e2bad4c3309a886f2023765f871a4"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif3.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="6b1160ba06256701dca28bad3aca3563"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif4.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="fe892327470e7712e61445920bfd7b74"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif5.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="b9dc3e1d66696bb02b13cbc28df94646"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif6.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="ca604f9bc60e876319c7c6a8987e5418"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif7.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="9138fed30e11a1e26f4e5c613879dbf3"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dessus.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="78554d587a96ca1ec322f7635f663e79"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif8.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="c53debeff549c4bec065b02864e8271f"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="motif9.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="5810243d8a01d2b7b0e499bdc26a57ee"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="arriere.png"
+   text-time="2006-07-14T16:40:37.000000Z"
+   committed-date="2006-07-14T16:34:48.211420Z"
+   checksum="4fdc701453e26987f732b899b7c70ddd"
+   last-author="esposito"
+   kind="file"
+   prop-time="2006-07-14T16:40:37.000000Z"/>
+</wc-entries>
